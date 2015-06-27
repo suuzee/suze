@@ -1,0 +1,4 @@
+$db['default']['hostname'] = 'qdm125056185.my3w.com';
+$db['default']['username'] = 'qdm125056185';
+$db['default']['password'] = '';
+$db['default']['database'] = 'qdm125056185_db';
